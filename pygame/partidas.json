@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Ana",
+        "puntaje": 120,
+        "fecha": "2025-07-03"
+    },
+    {
+        "nombre": "Luis",
+        "puntaje": 95,
+        "fecha": "2025-07-03"
+    },
+    {
+        "nombre": "Alberto",
+        "puntaje": 225,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Mariano",
+        "puntaje": 1625,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Lolo",
+        "puntaje": 325,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Damian",
+        "puntaje": 400,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Francisco",
+        "puntaje": 1625,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Damian",
+        "puntaje": 1875,
+        "fecha": "2025-07-04"
+    },
+    {
+        "nombre": "Pedro",
+        "puntaje": 125,
+        "fecha": "2025-07-05"
+    },
+    {
+        "nombre": "Maria",
+        "puntaje": 700,
+        "fecha": "2025-07-05"
+    },
+    {
+        "nombre": "Jeff",
+        "puntaje": 1875,
+        "fecha": "2025-07-05"
+    },
+    {
+        "nombre": "Roman",
+        "puntaje": 225,
+        "fecha": "2025-07-05"
+    },
+    {
+        "nombre": "Joel",
+        "puntaje": 400,
+        "fecha": "2025-07-05"
+    },
+    {
+        "nombre": "Diego",
+        "puntaje": 2100,
+        "fecha": "2025-07-06"
+    },
+    {
+        "nombre": "Pedro",
+        "puntaje": 125,
+        "fecha": "2025-07-06"
+    }
+]
